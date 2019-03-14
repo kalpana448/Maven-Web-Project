@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/flipkart-releases/</url>
+	      <url>http://ec2-52-15-111-241.us-east-2.compute.amazonaws.com:8081/repository/flipkart/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-52-15-111-241.us-east-2.compute.amazonaws.com:8081/repository/flikart_snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
